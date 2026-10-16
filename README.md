@@ -1,4 +1,4 @@
-# TimeSyncFix
+# WindowsTimeSync
 
 Fix the wrong Windows clock after dual-booting with Linux. A tiny PowerShell script that installs a silent background task to re-sync your time automatically.
 
